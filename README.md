@@ -10,7 +10,8 @@ Valida los numeros evitando
 Imprime las entradas válidas en el archivo de salida 
 Imprime las entradas inválidas en el archivo de error 
 
-Ejemplo de entrada.txt 
+Ejemplo de entrada.txt
+
 123 
 abc 
 -456 
@@ -28,11 +29,13 @@ Número: '+789'
 Número: '0001'
 Número: '-0'
 
+
 Error: 
 
 Error- Línea inválida: 'abc'
 Error- Línea inválida: '123abc'
 Error- Línea inválida (desbordamiento): '999999999999999999999999999999999'
+
 
 Compilación: gcc T3_2_C4L209.c -o T3_2_C4L209
 
