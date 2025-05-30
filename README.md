@@ -2,23 +2,23 @@
 
 Funcionalidad:
 
-Valida los numeros evitando
-- Espacios
-- Letras
-- Desbordamientos
+Valida los numeros evitando 
+- Espacios 
+- Letras 
+- Desbordamientos 
 
-Imprime las entradas válidas en el archivo de salida
-Imprime las entradas inválidas en el archivo de error
+Imprime las entradas válidas en el archivo de salida 
+Imprime las entradas inválidas en el archivo de error 
 
-Ejemplo de entrada.txt
-123
-abc
--456
-+789
-123abc
-999999999999999999999999999999999
-0001
--0
+Ejemplo de entrada.txt 
+123 
+abc 
+-456 
++789 
+123abc 
+999999999999999999999999999999999 
+0001 
+-0 
 
 Salida:
 
